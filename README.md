@@ -1,2 +1,5 @@
-Example DG app
-this is string
+line without spaces  
+line
+
+line without spaces
+line
