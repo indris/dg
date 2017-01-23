@@ -1,4 +1,4 @@
-line without spaces  
+line with space
 line
 
 line without spaces
